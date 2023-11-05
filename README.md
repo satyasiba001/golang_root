@@ -25,4 +25,5 @@ Escape character
 \v = vertical tab
 
 
+go env GOARCH GOOS : to know the env where your module placed
 
