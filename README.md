@@ -29,4 +29,3 @@ go env GOARCH GOOS : to know the env where your module placed
 
 systemctl --user start docker-desktop
 
-u8uki
